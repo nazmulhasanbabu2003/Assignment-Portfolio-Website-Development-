@@ -1,17 +1,18 @@
 # Personal Portfolio Website
 
-This is a modern, fully responsive personal portfolio website built using **React**, **Vite**, and **Tailwind CSS**. Designed and developed for the academic assignment submission.
+This is a modern, fully responsive personal portfolio website built using React, Vite, and Tailwind CSS. Designed and developed for the academic assignment submission.
 
 ## Features
 * **Responsive UI/UX:** Built with Tailwind CSS ensuring seamless viewing across mobile, tablet, and desktop devices.
-* **Component-Based Architecture:** Developed using React.js.
-* **Interactive Sections:** Includes Hero, About Me, Skills, Featured Projects (with live demo links), and an interactive Contact Section with a direct WhatsApp chat option.
+* **Component-Based Architecture:** Developed using React.js with interactive cards and hover effects.
+* **Featured Projects:** Showcases live projects including Tea House Landing Page, G3 Architects Website, and Bangladesh 2.0.
+* **Interactive Contact Section:** Includes a message form and a direct WhatsApp chat integration button (01885240139).
 
 ---
 
 ## Prerequisites (Requirements to run locally)
 Make sure you have the following installed on your computer:
-* [Node.js](https://nodejs.org/) (v16 or higher recommended)
+* Node.js (v16 or higher recommended)
 * Git
 
 ---
