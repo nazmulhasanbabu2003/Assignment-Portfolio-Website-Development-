@@ -23,6 +23,8 @@ If you have downloaded or cloned this project source code and want to run it on 
 
 1. **Extract/Open the project folder** in your code editor (e.g., VS Code).
 
-2. **Open the terminal** inside the project root directory and install the required dependencies by running:
+2. **Open the terminal** inside the project root directory and run the following commands one by one:
+
    ```bash
    npm install
+   npm run dev
