@@ -1,16 +1,27 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern, fully responsive personal portfolio website built using **React**, **Vite**, and **Tailwind CSS**. Designed and developed for the academic assignment submission.
 
-Currently, two official plugins are available:
+## Features
+* **Responsive UI/UX:** Built with Tailwind CSS ensuring seamless viewing across mobile, tablet, and desktop devices.
+* **Component-Based Architecture:** Developed using React.js.
+* **Interactive Sections:** Includes Hero, About Me, Skills, Featured Projects (with live demo links), and an interactive Contact Section with a direct WhatsApp chat option.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Prerequisites (Requirements to run locally)
+Make sure you have the following installed on your computer:
+* [Node.js](https://nodejs.org/) (v16 or higher recommended)
+* Git
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## How to Run the Project Locally
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+If you have downloaded or cloned this project source code and want to run it on your local machine, follow these simple steps:
+
+1. **Extract/Open the project folder** in your code editor (e.g., VS Code).
+
+2. **Open the terminal** inside the project root directory and install the required dependencies by running:
+   ```bash
+   npm install
